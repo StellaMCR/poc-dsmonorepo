@@ -1,0 +1,1 @@
+export const incrementStep = (amount: number, step: number) => amount+step
